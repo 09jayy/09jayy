@@ -6,5 +6,6 @@ About Me:
 - 💻 Backend Developer
 - ❤️‍🔥 Passionate Python, Java & C++ Development
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=09jayy&layout=donut&theme=synthwave)](https://github.com/09jayy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=09jayy&layout=compact&theme=synthwave)](https://github.com/09jayy/github-readme-stats)
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=09jayy&theme=synthwave)](https://github.com/09jayy/github-readme-stats)
