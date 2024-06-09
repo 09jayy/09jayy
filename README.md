@@ -1,10 +1,19 @@
-<h1 style="text-align: center">HI THERE! I'M JAY</h1>
+# HI THERE! I'M JAY
 
-About Me:
+## About Me:
 
 - 📖 BSc Computer Science @ Queen Mary University of London
 - 💻 Backend Developer
 - ❤️‍🔥 Passionate Python, Java & C++ Development
+
+## Interests:
+
+- 🤖 Machine Learning
+- 📂 SQL and NoSQL Databases
+- ⚛️ Frontend React
+- 🔗 Developing and Testing RESTful APIs
+
+## Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=09jayy&layout=compact&theme=synthwave)](https://github.com/09jayy/github-readme-stats)
 
