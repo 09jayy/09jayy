@@ -1,12 +1,13 @@
 # HI THERE! I'M JAY
 
-## About Me:
+## About Me
 
-- 📖 BSc Computer Science @ Queen Mary University of London
+- 📖 BSc Computer Science Student @ Queen Mary University of London
 - 💻 Backend Developer
 - ❤️‍🔥 Passionate Python, Java & C++ Development
+- 👑 Typescript and Nodejs enthusiast
 
-## Interests:
+## Interests
 
 - 🤖 Machine Learning
 - 📂 SQL and NoSQL Databases
